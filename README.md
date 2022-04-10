@@ -1,4 +1,4 @@
-# Apache Spark
+# Apache Spark i Dask
 
 Apache Spark to framework do wykonywania obliczeń rozproszonych. Zapoznać z nim można się [tutaj](https://spark.apache.org/docs/latest/quick-start.html).
 
